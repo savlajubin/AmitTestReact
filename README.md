@@ -1,2 +1,0 @@
-# AmitTestReact
-Created with CodeSandbox
